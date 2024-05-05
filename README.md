@@ -1,2 +1,2 @@
 # Objects
-Clase 01, Objects de JavaScript
+Clase 07, Objects de JavaScript
